@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+motor
+pyjwt
+passlib[bcrypt]
+cloudinary
+python-multipart
+pydantic[email]
+bcrypt<4.2
